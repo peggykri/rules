@@ -1,1 +1,2 @@
 # rules
+- amongus rule
